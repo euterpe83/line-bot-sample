@@ -1,0 +1,15 @@
+Flask==1.1.1
+line-bot-sdk==1.15.0
+Flask==1.1.1
+line-bot-sdk==1.15.0
+Flask==1.1.1
+line-bot-sdk==1.15.0
+Flask==1.1.1
+line-bot-sdk==1.15.0
+numpy==1.17.2
+Flask==1.1.1
+line-bot-sdk==1.15.0
+googletrans==2.4.0
+Flask==1.1.1
+line-bot-sdk==1.15.0
+pillow==5.1.0
